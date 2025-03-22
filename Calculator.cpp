@@ -1,6 +1,8 @@
+// Scientific Calculator here we go!
+
 #include<iostream>
 #include<cmath>
-#define pi 3.14159265358979   //Constant Declaration
+#define pi 3.14159265358979  
 
 using namespace std;
 
@@ -20,7 +22,7 @@ welcomepage();
 
 while (1)
 {
-cout<<endl<<"Enter the operation you want to perform: "<<endl;
+cout<<endl<<"Enter the operation that you want to perform: "<<endl;
 cin>>k;
 
 if(k==0)
@@ -34,7 +36,6 @@ cin>>x>>y;
 a = sum(x,y);
 cout<<"SUM = "<<a<<endl;
 break;
-
 
 case 2:
 cout<<"Enter two numbers to subtract: "<<endl;
@@ -138,7 +139,6 @@ return 0;
 float sum(float x,float y)
 {
 float sum;
-
 sum=x+y;
 return sum;
 }
@@ -149,6 +149,7 @@ float sub;
 sub = x-y;
 return sub;
 }
+
 float mul(float x,float y)
 {
 float mul;
