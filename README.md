@@ -27,7 +27,7 @@ takes the value as case number and performs specific operations based on the fol
 - For value 9 – Tangent
 - For vale 10 – Inverse of Sine
 - For value 11 – Inverse of Cosine
-- For value – Inverse of Tangent
+- For value 12 – Inverse of Tangent
 - For value 13 – Logarithm
 - For value 14 – Logarithm with base 10
 - For value 15 – Factorial
