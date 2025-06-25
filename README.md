@@ -35,6 +35,6 @@ takes the value as case number and performs specific operations based on the fol
 
 - When 0 is recieved as input, the calculator terminates.
 
-:) On the below image you can find the implementation of the Scientific Calculator program.
+:) On the image below you can find the implementation of the Scientific Calculator.
 
 ![HTML Image](https://github.com/Kira-Legacy/Image_Repo/blob/main/Scientific%20Calculator.png)
