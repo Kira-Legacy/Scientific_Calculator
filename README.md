@@ -1,5 +1,6 @@
 # Scientific_Calculator
 ## A Scientific Calculator built with C++
+
 - A scientific calculator is a calculator designed to help calculate science, engineering, and 
 mathematics problems. It contains Operation, Trigonometric function, Logarithmic function,
 Factorial and etc.
